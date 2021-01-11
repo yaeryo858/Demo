@@ -1,0 +1,15 @@
+    1  mkdir Demo
+    2  cd Demo
+    3  gedit README.md
+    4  cat README.md
+    5  git init
+    6  ls
+    7  ls -la
+    8  git add README.md
+    9  git status
+   10  git config --global user.name "yaeryo"
+   11  git config --global user.email "858616161@qq.com"
+   12  git commit -m "first commit"
+   13  git remote add origin https://github.com/yaeryo858/Demo.git
+   14  git push origin master
+   15  history
